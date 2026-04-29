@@ -1,16 +1,29 @@
-## Hi there 👋
+ # 👋 Selam, Ben Yakup Ayyıldız!
 
-<!--
-**yayyildiz650-alt/yayyildiz650-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📱 Android Developer | Kotlin & Java Specialist
 
-Here are some ideas to get you started:
+Geleceğin teknolojilerini mobil dünyada inşa etmeye odaklanmış bir yazılım geliştiriciyim. Modern mimari (MVVM), temiz kod ve kullanıcı deneyimi (UX) önceliğimdir.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Yeteneklerim & Araçlar
+<p align="left">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=focus" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+---
+
+### 📈 GitHub İstatistiklerim
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=yayyildiz650-alt&show_icons=true&theme=tokyonight" width="400" />
+</p>
+
+---
+
+### 📫 Bana Ulaşın
+* **LinkedIn:** [linkedin.com/in/yakupayyildiz](https://linkedin.com/in/yakupayyildiz)
+* **Email:** muhammedyakupayyildiz@gmail.com
