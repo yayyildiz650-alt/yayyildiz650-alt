@@ -26,4 +26,4 @@ Geleceğin teknolojilerini mobil dünyada inşa etmeye odaklanmış bir yazılı
 
 ### 📫 Bana Ulaşın
 * **LinkedIn:** https://www.linkedin.com/in/muhammed-yakup-ayy%C4%B1ld%C4%B1z-0a157b403/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B03q6xCBtTkil4oS3L28iHA%3D%3D
-* **Email:** yayyildiz650@gmail.com
+* **Email:** Yayyildiz650@gmail.com
