@@ -11,8 +11,11 @@ Geleceğin teknolojilerini mobil dünyada inşa etmeye odaklanmış bir yazılı
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=focus" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Offline--First-333333?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend_(Spring_Boot)-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 </p>
 
 ---
@@ -25,5 +28,5 @@ Geleceğin teknolojilerini mobil dünyada inşa etmeye odaklanmış bir yazılı
 ---
 
 ### 📫 Bana Ulaşın
-* **LinkedIn:** https://www.linkedin.com/in/muhammed-yakup-ayy%C4%B1ld%C4%B1z-0a157b403/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B03q6xCBtTkil4oS3L28iHA%3D%3D
+* **LinkedIn:** [Muhammed Yakup Ayyıldız](https://www.linkedin.com/in/muhammed-yakup-ayy%C4%B1ld%C4%B1z-0a157b403/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B03q6xCBtTkil4oS3L28iHA%3D%3D)
 * **Email:** Yayyildiz650@gmail.com
