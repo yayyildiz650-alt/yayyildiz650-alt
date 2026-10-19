@@ -1,6 +1,6 @@
  # 👋 Selam, Ben Yakup Ayyıldız!
 
-### 📱 Android Developer | Kotlin & Java Specialist
+### 📱 Android Developer | Kotlin & Java Specialist | Jetpack Compose
 
 Geleceğin teknolojilerini mobil dünyada inşa etmeye odaklanmış bir yazılım geliştiriciyim. Modern mimari (MVVM), temiz kod ve kullanıcı deneyimi (UX) önceliğimdir.
 
